@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <PackageId />
+    <Description>With Murfa class, you can send an email with a file, just give your file address, just as easily.</Description>
+    <Copyright>No problem, you can copy this class </Copyright>
+  </PropertyGroup>
+
+</Project>
